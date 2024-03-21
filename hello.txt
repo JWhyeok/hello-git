@@ -3,4 +3,6 @@ world
 1
 2
 3
-change from main
+
+main 과 dev에서 충돌을 해결한 내용
+
